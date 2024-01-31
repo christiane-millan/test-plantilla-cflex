@@ -30,7 +30,7 @@ cookiecutter https://github.com/christiane-millan/test-plantilla-cflex
 
 Estructura de directorios y archivos resultantes
 
-
+````
 {{ cookiecutter.project_slug }}
     ├── data
     │   ├── processed      <- The final, canonical data sets for modeling.
@@ -45,3 +45,4 @@ Estructura de directorios y archivos resultantes
     ├── environment.yml    <- The requirements file for reproducing the analysis environment.
     │
     └── README.md          <- The top-level README for developers using this project.
+````
