@@ -25,7 +25,9 @@ Crear un nuevo proyecto
 En el directorio en el que quieras guardar tu proyecto generado:
 
 
-cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cookiecutter-personal-platzi
+cookiecutter https://github.com/christiane-millan/test-plantilla-cflex
+
+
 Estructura de directorios y archivos resultantes
 
 
